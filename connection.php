@@ -2,9 +2,9 @@
 class dbObj
 {
   var $servername = "localhost";
-  var $username = "mohali728_codex";
-  var $password = "<YOUR_PASSWORD>";
-  var $dbname = "mohali728_codex";
+  var $username = "your_username";
+  var $password = "your_password";
+  var $dbname = "your_db_name";
   var $conn;
 
   function getConnstring()
